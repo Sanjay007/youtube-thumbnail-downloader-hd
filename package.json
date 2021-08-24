@@ -1,0 +1,27 @@
+{
+  "name": "youtube-thumbnail-downloader-hd",
+  "version": "1.0.0",
+  "description": "Youtube Thumnail downloader in hd , Ultra HD , SSD",
+  "main": "index.js",
+  "keywords": [
+    "youtube",
+    "thumbnail"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sanjay007/youtube-thumbnail-downloader-hd"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjay007/youtube-thumbnail-downloader-hd/issues"
+  },
+  "homepage": "https://github.com/Sanjay007/youtube-thumbnail-downloader-hd",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "get-video-id": "^3.2.0"
+  }
+}
