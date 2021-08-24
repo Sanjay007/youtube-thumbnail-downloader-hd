@@ -25,5 +25,15 @@ module.exports = function(url){
       width: 480,
       height: 360
     },
+    sdddefautl: {
+        url: 'http://img.youtube.com/vi/' + id + '/sddefault.jpg',
+        width: 640,
+        height: 480
+      },
+      highMaxRes: {
+        url: 'http://img.youtube.com/vi/' + id + '/maxresdefault.jpg',
+        width: 1280,
+        height: 720
+      },
   }
 };
