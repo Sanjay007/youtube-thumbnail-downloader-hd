@@ -1,9 +1,10 @@
 'use strict';
 
-const getVideoId = require('get-video-id');
+var getYouTubeID = require('get-youtube-id');
+
 
 module.exports = function(url){
-  const {id}  = getVideoId(url);
+  var id = getYouTubeID(url);
 
   if(!id && url.length === 11){
     id = url
