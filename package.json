@@ -1,6 +1,6 @@
 {
   "name": "youtube-thumbnail-downloader-hd",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Youtube Thumnail downloader in hd , Ultra HD , SSD",
   "main": "index.js",
   "keywords": [
