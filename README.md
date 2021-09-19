@@ -33,3 +33,5 @@ IN case you are facing any issuess raise a bug here .
 - [Github](https://github.com/Sanjay007/youtube-thumbnail-downloader-hd/issues)
 - [Website](https://frugalisminds.com) 
 
+https://frugalisminds.com/
+
